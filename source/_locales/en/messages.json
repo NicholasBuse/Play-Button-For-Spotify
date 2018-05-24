@@ -1,0 +1,101 @@
+{
+    "enable_play_pause": {
+        "message": "Enable ⏯ hardware key"
+    },
+    "enable_play_prev_next": {
+        "message": "Enable ⏮/⏭ hardware keys"
+    },
+    "show_ntp": {
+        "message": "Show «Nothing to play» alert"
+    },
+    "page_to_open": {
+        "message": "Page to open"
+    },
+    "pin_tab": {
+        "message": "Pin tab"
+    },
+    "if_player_inactive": {
+        "message": "If player is inactive"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "shortcuts": {
+        "message": "Shortcuts"
+    },
+    "page_default": {
+        "message": "Default"
+    },
+    "page_featured": {
+        "message": "Featured"
+    },
+    "page_podcasts": {
+        "message": "Podcasts"
+    },
+    "page_generes": {
+        "message": "Genres & Moods"
+    },
+    "page_new_releases": {
+        "message": "New Releases"
+    },
+    "page_discover": {
+        "message": "Discover"
+    },
+    "page_playlists": {
+        "message": "Playlists"
+    },
+    "page_mix": {
+        "message": "Your Daily Mix"
+    },
+    "page_songs": {
+        "message": "Songs"
+    },
+    "page_albums": {
+        "message": "Albums"
+    },
+    "page_artists": {
+        "message": "Artists"
+    },
+    "page_none": {
+        "message": "Disabled"
+    },
+    "play_first": {
+        "message": "Play first podcast from top"
+    },
+    "play_last": {
+        "message": "Play first podcast from bottom"
+    },
+    "play_random": {
+        "message": "Play random podcast"
+    },
+    "play_none": {
+        "message": "Don`t play anything"
+    },
+    "ntp": {
+        "message": "Nothing to play =("
+    },
+    "Play": {
+        "message": "Play"
+    },
+    "Pause": {
+        "message": "Pause"
+    },
+    "play_pause": {
+        "message": "Play/Pause"
+    },
+    "jump_back": {
+        "message": "Jump back"
+    },
+    "jump_forward": {
+        "message": "Jump forward"
+    },
+    "ext_name": {
+        "message": "Play/Pause Button For Spotify"
+    },
+    "ext_short_name": {
+        "message": "Play Button"
+    },
+    "ext_description": {
+        "message": "Simple play/pause button for Spotify. This button allows to pause or resume music independently of current tab."
+    }
+}
