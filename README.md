@@ -3,7 +3,7 @@ Play-Button-For-Spotify
 Based heavliy on [Illuzor's Play-Button-For-Pocket-Casts](https://github.com/illuzor/Play-Button-For-Pocket-Casts)
 
 ## Install
-- [Chrome extension](https://chrome.google.com/webstore/detail/playpause-button-for-spotify/TOOD)
+- [Chrome extension](https://chrome.google.com/webstore/detail/playpause-button-for-spotify/...)
 - [Firefox extension](https://addons.mozilla.org/addon/play-button-for-spotify/)
 
 ## Description
@@ -23,7 +23,7 @@ This extension allows to control playing of current song on Spotify site by butt
 
 ## Screenshot
 
-![pc_screenshot2.png](http://download.illuzor.com/images/github/sp_screenshot2.png)
+![sp_screenshot2.png](http://download.illuzor.com/images/github/sp_screenshot2.png)
 
 ## Localization
 This extension supports multilanguage. If you want help to translate it to your language:
@@ -38,4 +38,5 @@ This extension supports multilanguage. If you want help to translate it to your 
 Or just send me translated **messages.json** via email.
 
 ## See also
-[Play-Button-For-Google-Play-Music](https://github.com/illuzor/Play-Button-For-Google-Play-Music)
+ - [Play-Button-For-Google-Play-Music](https://github.com/illuzor/Play-Button-For-Google-Play-Music)
+ - [Play-Button-For-Pocket-Casts](https://github.com/illuzor/Play-Button-For-Pocket-Casts)
